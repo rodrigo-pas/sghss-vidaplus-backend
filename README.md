@@ -60,7 +60,7 @@ A API permite gerenciar as seguintes entidades:
 ## 👤 Autor
 
 - **Rodrigo P Alcantara**
-- RU: 4644626
+- RU: 4844626
 
 ---
 *Projeto desenvolvido para fins acadêmicos.*
